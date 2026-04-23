@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @koorosh81
-- 👀 I’m interested in football
+- 👀 I’m interested in movies
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on learning
+- 📫 I’m online on telegram @Kaaf_ein
 
 <!---
 koorosh81/koorosh81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
