@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @koorosh81
+- 👋 Hi, I’m @krsh1781
 - 👀 I’m interested in movies
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on learning
